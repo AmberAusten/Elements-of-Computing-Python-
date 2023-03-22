@@ -1,10 +1,6 @@
 #  File: Initials.py
 #  Description: Programming assignment 1
-#  Student's Name: K.Amber Vasquez  
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber   
 #  Date Created:1/24/20
 #  Date Last Modified:1/28/20
 

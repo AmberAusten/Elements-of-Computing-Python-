@@ -1,10 +1,6 @@
 #  File: EasterSunday.py
 #  Description:Computes the date of Easter Sunday for a specified year
-#  Student's Name: K.Amber Vasquez
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created:1/29/2020
 #  Date Last Modified: 02/04/2020
 

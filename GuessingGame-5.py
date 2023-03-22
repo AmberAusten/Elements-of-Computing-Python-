@@ -1,15 +1,8 @@
 #  File: GuessingGame.py
 #  Description: Allows the user to play a guessing game with 10 tries
-#  Student's Name: K.Amber Vasquez
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 51080
-#
+#  Student's Name: Amber
 #  Date Created: 2/23/20
 #  Date Last Modified: 2/27/20
-
-
-
 
 def main():
 

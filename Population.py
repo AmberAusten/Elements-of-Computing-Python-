@@ -1,10 +1,6 @@
 #  File: Population.py
 #  Description: verify Benford's Law for the US Census data of 2009
-#  Student's Name: K Amber Vasquez  
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: May 4, 2020 
 #  Date Last Modified: May 7, 2020
 

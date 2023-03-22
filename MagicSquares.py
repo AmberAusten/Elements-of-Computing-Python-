@@ -1,10 +1,6 @@
 #  File: MagicSquares.py
 #  Description: Creates a magic square
-#  Student's Name:K Amber Vasquez
-#  Student's UT EID:kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created:April 21, 2020
 #  Date Last Modified:April 23, 2020
 

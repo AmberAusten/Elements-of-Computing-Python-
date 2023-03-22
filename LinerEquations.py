@@ -1,10 +1,6 @@
 #  File: LinearEquations.py
 #  Description: define a class called LinearEquation to create, print, & perform several operations on linear equations.
-#  Student's Name: K. Amber Vasquez
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: 4/4/2020
 #  Date Last Modified: 4/7/2020
 

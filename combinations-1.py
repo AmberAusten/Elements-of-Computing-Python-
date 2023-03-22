@@ -1,11 +1,7 @@
 #  File: Combinations.py
 #  Description: A program that prints a table listing the
 #               number of possible hands of r cards, r ranging from 0 to 52.
-#  Student's Name: K. Amber Vasquez
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber 
 #  Date Created: March 9, 2020
 #  Date Last Modified: March 12, 2020
 

@@ -1,10 +1,6 @@
 #  File: Handicap.py
 #  Description: Calculates a bowler's average & handicap after 3 games
-#  Student's Name: K. Amber Vasquez 
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180 
-#
+#  Student's Name: Amber
 #  Date Created: Feb 4, 2020
 #  Date Last Modified:Feb 6, 2020
 

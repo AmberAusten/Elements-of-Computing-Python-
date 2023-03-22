@@ -1,10 +1,6 @@
 #  File: Deal.py
 #  Description: Let's Make a Deal simulaiton 
-#  Student's Name: K. Amber Vasquez 
-#  Student's UT EID: kav835 
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: March 30, 2020
 #  Date Last Modified: March 31, 2020
 

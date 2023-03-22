@@ -1,10 +1,6 @@
 #  File: NextDay.py
 #  Description: prompts the user to enter a year, month, and day then computes its immediate successor
-#  Student's Name: K. Amber Vasquez 
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: Feb 13, 2020
 #  Date Last Modified: Feb 18, 2020
 

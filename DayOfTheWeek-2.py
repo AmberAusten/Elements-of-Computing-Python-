@@ -1,9 +1,7 @@
 #  File: DayOfTheWeek.py
 #  Description: After asking for the date, program will produce day of the week
-#  Student's Name: K. Amber Vasquez
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
+#  Student's Name: Amber
+
 #
 #  Date Created: Feb 20, 2020
 #  Date Last Modified: Feb 21, 2020

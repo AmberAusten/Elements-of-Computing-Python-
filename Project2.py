@@ -1,10 +1,6 @@
 #  File: Project2.py
 #  Description:A simpleadventure game Pt.2
-#  Student's Name: K. Amber Vasquez
-#  Student's UT EID:kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: May 1, 2020
 #  Date Last Modified: May 7, 2020
 

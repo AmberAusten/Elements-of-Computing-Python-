@@ -1,10 +1,6 @@
 #  File: Ciphers.py
 #  Description: functions to encrypt and decrypt messages using simple substitution ciphers
-#  Student's Name: K. Amber Vasquez 
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: April 10, 2020
 #  Date Last Modified: April 16, 2020
 

@@ -1,10 +1,6 @@
 #  File: Reverse.py
 #  Description: Program that reverses the number order
-#  Student's Name: K. Amber Vasquez
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: Feb 8,2020
 #  Date Last Modified:Feb 11, 2020
 

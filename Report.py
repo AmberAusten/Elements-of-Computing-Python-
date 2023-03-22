@@ -1,10 +1,6 @@
 #  File: Report.py
 #  Description: Prints a data report in a specific format
-#  Student's Name: K. Amber Vasquez 
-#  Student's UT EID: kav835
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
+#  Student's Name: Amber
 #  Date Created: March 1, 2020
 #  Date Last Modified: March 8, 2020
 
